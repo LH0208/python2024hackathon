@@ -56,3 +56,10 @@ URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
 3. Loh Je Le
 
 URL: https://github.com/diamondex187/pythonhackathon2024
+
+## Team titah titanium
+1. Peh Le Hui
+2. Chung Wei Heng
+3. Teh Wei Xuan
+
+URL: https://github.com/LH0208/tita-titanium
